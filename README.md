@@ -1,6 +1,6 @@
-### Hi! Welcome to @qsuyeonp Github
+### Hi! Welcome to @qsuyeonp
 
-- 👋 Hi, I’m @qsuyeonp
+- 👋 I’m @qsuyeonp
 - 👀 I’m interested in data analysis and visualisation.
 - 🌱 I’m currently learning Machine Learning skills on Python.
 - 📫 Here is my [Linkedin Profile](https://www.linkedin.com/in/suyeon-park/)
